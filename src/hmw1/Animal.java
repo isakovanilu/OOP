@@ -1,3 +1,5 @@
+package hmw1;
+
 public class Animal {
     public void eat() {
         System.out.println(" I can eat ");
